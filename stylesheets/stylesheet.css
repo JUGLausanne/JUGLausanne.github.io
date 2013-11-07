@@ -86,13 +86,13 @@ header h2 {
 
 nav {
   display: block;
-  width: 160px;
+  width: 195px;
   float: left;
   overflow: hidden;
 }
 
 nav ul li {
-  text-align: right;
+  text-align: left;
 }
 
 #container {
@@ -115,7 +115,7 @@ nav ul li {
 
 #main_content {
   display: block;
-  width: 715px;
+  width: 680px;
   margin: 0 0 0 20px;
   float: left;
 }
