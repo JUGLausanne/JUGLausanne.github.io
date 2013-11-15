@@ -3,4 +3,9 @@ layout: default
 title: Prochaines Sessions
 ---
 
-{{ site.posts[0].excerpt }}
+<h2>{{ site.posts.first.title }}</h2>
+<p class="meta">{{ site.posts.first.date | date_to_string }}, {{ site.posts.first.speaker }}</p>
+
+<div class="post">
+{{ site.posts.first.content }}
+</div>

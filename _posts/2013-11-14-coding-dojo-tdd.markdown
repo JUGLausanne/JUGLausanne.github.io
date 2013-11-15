@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Coding Dojo Test Driven Development"
-date:   2013-11-14 18:30:00
+title: "Coding Dojo Test Driven Development"
+speaker: "Christophe Thibaut"
+date: 2013-11-14 18:30:00
 ---
 
 <p>Pour varier les plaisirs, le JUGL vous propose en novembre un <a href="http://fr.wikipedia.org/wiki/Coding_Dojo">Coding Dojo</a> qui aura pour th&egrave;me le <a href="http://fr.wikipedia.org/wiki/Test_Driven_Development">Test Driven Development</a>&nbsp;ou TDD.</p>
