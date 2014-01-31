@@ -2,7 +2,7 @@
 layout: post
 title: "Contralisation de grands volumes de log"
 speaker: "Vladislav Pernin"
-date: 2014-02-13 18:30:00
+date: 2013-02-13 18:30:00
 ---
 
 Si vous vous reconnaissez dans un des cas suivants, alors venez apprendre à centraliser vos logs :
