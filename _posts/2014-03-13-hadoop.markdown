@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Hadoop Walk Through"
+speaker: "Benoit Perroud"
+date: 2014-03-13 18:30:00
+---
+In this session we'll walk through Hadoop basics, before illustrating real world use-cases beyound the word-count example. Targetted audience goes from beginners to advanced users, as some crunchy operational best practices will be shared.
+
+If you have any questions related to current or planned Hadoop deployment, this talk should give an answer, or the speaker will be more than happy to try to answer. 
+
+Benoit holds a M.Sc. summa cum laude in Computer Science from the EPFL, École Polytechnique Fédérale de Lausanne, Switzerland.
+
+He is responsible for the Verisign shared Hadoop platform and leads its daily operations: ingesting, storing, processing and retrieving Internet scale data sets, like for instance DNS traffic on the .COM zone.
+
+He is a Certified Cloudera Administrator, fluent in java.util.concurrent, Hadoop and Pig. In addition to being a father of two lovely children, he is an Apache Committer, NoSQL enthusiast and leads the Swiss BigData User Group. He is also frequent speaker at Swiss and European Tech Conferences, such as Jazoon, Devoxx, Cassandra Meetup, JUGL, GenevaJUG, etc...
+
+Multilingual and multicultural by nature, he speaks several languages, including French, German and English. Whenever he is not travelling for conferences, hacking Hadoop code or snowboarding, you can see him playing volley at the setter position.
+
+<div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.fr/tickets-external?eid=10799781437&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr/r/etckt">Gestion d'un événement</a><span style="color:#ddd;"> pour </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://jugl-hadoop.eventbrite.fr/?ref=etckt">Hadoop Walk Through</a> <span style="color:#ddd;">réalisé par</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr?ref=etckt">Eventbrite</a></div></div>
