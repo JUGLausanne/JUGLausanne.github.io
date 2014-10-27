@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C'est bientôt la rentrée"
-date: 2014-11-13 18:30:00
+date: 2014-10-10 18:30:00
 ---
 
 Après des vacances un peu prolongée, le JUGL revient. Nous sommes en train

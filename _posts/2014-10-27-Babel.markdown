@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Comment utiliser la programmation fonctionnelle pour simplifier une
+solution d'intégration"
+speaker: "Christophe Pache"
+date: 2014-11-13 18:30:00
+---
+
+Babel est une API qui simplifie et consolide l’utilisation de frameworks
+d’intégration, principalement Apache Camel. Fortement inspiré par Scala, Babel
+tire partie de la programmation fonctionnelle sans être dogmatique. Dès le
+départ basé sur l’API Java existante, Babel vous propose un mélange optimal
+pour une meilleur expérience avec ces frameworks.
+
+##### Speaker
+
+Christophe Pache est ingénieur en informatique (R&D) dans une compagnie spécialisée dans
+l'intégration. Une de tâches principales de son équipe est la définition d'API
+innovantes et accessibles au plus grand nombre. Comme tous n'apprécient pas
+forcément la programmation fonctionnelle, nous cherchons à rendre abordable
+les concepts que Scala met à disposition avec un minimum de connaissances
+requises.
