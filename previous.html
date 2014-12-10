@@ -3,21 +3,32 @@ layout: default
 title: Sessions passées
 ---
 
+
+
 <table>
 	<tr>
-		<th scope="col">
+		<th scope="col" style="width: 15%;">
 			Date
 		</th>
-		<th scope="col">
+		<th scope="col" style="width: 40%;">
 			Thème
 		</th>
-		<th scope="col">
+		<th scope="col" style="width: 25%;">
 			Ressources
 		</th>
-		<th scope="col">
+		<th scope="col" style="width: 25%;">
 			Animateur
 		</th>
 	</tr>
+	{% for post in site.posts %}
+	<tr>
+		<td>{{post.date | date_to_string}}</td>
+		<td><span class="wikilink">{{ post.title }}</span></td>
+		<td><span class="wikilink">{{ post.slides }}</span></td>
+		<td><span class="wikilink"></a>{{ post.speaker }}</span></td>
+	</tr>
+	{% endfor %}
+	<!-- before Jekyll -->
 	<tr>
 		<td>Juin 2013</td>
 		<td><span class="wikilink">Vue d'ensemble du DDD</span></td>
@@ -51,13 +62,13 @@ title: Sessions passées
 	<tr>
 		<td>Janvier 2013</td>
 		<td><span class="wikilink">Android</span></td>
-		<td><span class="wikiexternallink"><a href="http://fr.slideshare.net/jeromevdl/jug-lausanne-android-janvier2013">Slides de la présentation</a></span></td>
+		<td><span class="wikiexternallink"><a href="http://fr.slideshare.net/jeromevdl/jug-lausanne-android-janvier2013">Slides</a></span></td>
 		<td><span class="wikilink"><a href="http://www.javasioux.fr/blog/">Jérôme Van Der Linden</a></span></td>
 	</tr>
 	<tr>
 		<td>Décembre 2012</td>
 		<td><span class="wikilink">Play</span></td>
-		<td><span class="wikiexternallink"><a href="http://fr.slideshare.net/JUGLausanne/2012-12playframework-realtime-web">Slides Real-time Web</a></span>, <span class="wikiexternallink"><a href="http://fr.slideshare.net/JUGLausanne/play-chez-zaptravel-nicolas-martignole-december-2012">Slides Play! chez Zaptravel</a></span></td>
+		<td><span class="wikiexternallink"><a href="http://fr.slideshare.net/JUGLausanne/2012-12playframework-realtime-web">Slides</a></span>, <span class="wikiexternallink"><a href="http://fr.slideshare.net/JUGLausanne/play-chez-zaptravel-nicolas-martignole-december-2012">Slides Play! chez Zaptravel</a></span></td>
 		<td><span class="wikiexternallink"><a href="http://www.touilleur-express.fr/">Nicolas Martignole</a></span>, <span class="wikiexternallink"><a href="http://guillaume.bort.fr/">Guillaume Bort</a></span>, <span class="wikiexternallink"><a href="http://sadache.tumblr.com/">Sadek Drobi</a></span></td>
 	</tr>
 	<tr>
@@ -69,7 +80,8 @@ title: Sessions passées
 	<tr>
 		<td>Juin 2012</td>
 		<td><span class="wikilink">Cassandra</span></td>
-		<td><span class="wikiexternallink"><a class="wikimodel-freestanding" href="http://www.slideshare.net/benoitperroud/cassandra-talk-jug-lausanne-20120614"><span class="wikigeneratedlinkcontent">http://www.slideshare.net/benoitperroud/cassandra-talk-jug-lausanne-20120614</span></a></span></td>
+		<td><span class="wikiexternallink"><a class="wikimodel-freestanding"
+					href="http://www.slideshare.net/benoitperroud/cassandra-talk-jug-lausanne-20120614">Slides</span></a></span></td>
 		<td><span class="wikilink"><a href="http://benoitperroud.blogspot.ch/">Benoit Perroud</a></span></td>
 	</tr>
 	<tr>
@@ -93,7 +105,8 @@ title: Sessions passées
 	<tr>
 		<td>Janvier 2012</td>
 		<td>Ruby et JRuby</td>
-		<td><span class="wikiexternallink"><a class="wikimodel-freestanding" href="http://www.parleys.com/#st=5&amp;id=3038"><span class="wikigeneratedlinkcontent">http://www.parleys.com/#st=5&amp;id=3038</span></a></span></td>
+		<td><span class="wikiexternallink"><a class="wikimodel-freestanding"
+					href="http://www.parleys.com/#st=5&amp;id=3038">Slides</a></span></td>
 		<td><a href="http://www.sans-savoir.net/">Yann Lugrin</a></td>
 	</tr>
 	<tr>
@@ -215,7 +228,10 @@ title: Sessions passées
 	<tr>
 		<td>Avril 2010</td>
 		<td>Maven pour construire vos applications d'entreprise</td>
-		<td><span class="wikiexternallink"><a href="http://www.slideshare.net/aheritier/20100408-lausanne-jugmaven"></a><a class="wikimodel-freestanding" href="http://www.slideshare.net/aheritier/20100408-lausanne-jugmaven"><span class="wikigeneratedlinkcontent">http://www.slideshare.net/aheritier/20100408-lausanne-jugmaven</span></a></span></td>
+		<td><span class="wikiexternallink">
+				<a href="http://www.slideshare.net/aheritier/20100408-lausanne-jugmaven">Slides</a>
+				<a class="wikimodel-freestanding"
+					href="http://www.slideshare.net/aheritier/20100408-lausanne-jugmaven">Slides</a></span></td>
 		<td><span class="wikiexternallink"><a href="http://aheritier.net/">Arnaud Héritier</a></span></td>
 	</tr>
 	<tr>
@@ -227,7 +243,8 @@ title: Sessions passées
 	<tr>
 		<td>Février 2010</td>
 		<td>Wicket</td>
-		<td><span class="wikiexternallink"><a class="wikimodel-freestanding" href="http://www.slideshare.net/cblavier/wicket-jug-lausanne"><span class="wikigeneratedlinkcontent">http://www.slideshare.net/cblavier/wicket-jug-lausanne</span></a></span></td>
+		<td><span class="wikiexternallink"><a class="wikimodel-freestanding"
+					href="http://www.slideshare.net/cblavier/wicket-jug-lausanne">Slides</a></span></td>
 		<td><a href="http://about.me/christian.blavier">Christian Blavier</a></td>
 	</tr>
 	<tr>
