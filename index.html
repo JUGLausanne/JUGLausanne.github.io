@@ -10,13 +10,18 @@ title: JUGL
 
 <h3>Coming soon to you</h3>
 
+{% if site.time <= site.posts.first.date %}
 <h4><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h4>
 <p class="meta">{{ site.posts.first.date | date_to_string }}, {{ site.posts.first.speaker }}</p>
+{% else %}
+<p class="meta">Nothing for the moment, we'll be posting an update soon</p>
+{% endif %}
 
 <p><em>Toutes les informations suivantes sont à confirmer</em></p>
 <p>Pour la rentrée de Septembre, voilà ce qu'on commence à prévoir</p>
 <p><ul>
-  <li>Mirco Dotta pour nous parler de Akka</li>
+  <li>Nicolas Frankel en Octobre pour nous parler de Spring Boot pour DevOpMirco Dotta en Novembre pour nous parler de Akkas</li>
+  <li>Mirco Dotta en Novembre (12th) pour nous parler de Akka</li>
   <li>Sébastien Deleuze de Pivotal</li>
   <li>Jonathan Roquelaure pour nous parler d'artifactory</li>
 </ul></p>
