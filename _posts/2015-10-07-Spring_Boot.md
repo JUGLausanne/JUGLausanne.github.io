@@ -2,7 +2,7 @@
 layout: post
 title: "Spring Boot for DevOps"
 speaker: "Nicolas Frankel"
-date: 2015-10-08 18:30:00
+date: 2015-10-07 18:30:00
 ---
 
 Spring Boot is a product from Spring, that provides many configuration
