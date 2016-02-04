@@ -11,9 +11,10 @@ title: JUGL
 <h3>Coming soon to you</h3>
 
 {% assign sorted_posts = (site.posts | sort: 'date') %}
-{% if site.time <= sorted_posts.last.date %}
-<h4><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h4>
-<p class="meta">{{ site.posts.first.date | date_to_string }}, {{ site.posts.first.speaker }}</p>
+{% assign last_post = sorted_posts.last %}
+{% if site.time <= last_post.date %}
+<h4><a href="{{ last_post.url }}">{{ last_post.title }}</a></h4>
+<p class="meta">{{ last_post.date | date_to_string }}, {{ last_post.speaker }}</p>
 {% else %}
 <p class="meta">Nothing for the moment, we'll be posting an update soon</p>
 {% endif %}
