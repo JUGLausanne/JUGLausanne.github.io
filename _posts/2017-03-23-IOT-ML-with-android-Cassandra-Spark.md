@@ -2,7 +2,7 @@
 layout: post
 title: "Exemple d'IOT et ML avec Android, Cassandra et Spark"
 speaker: "Amira Lakhal"
-slides: ""
+slides: "https://fr.slideshare.net/JUGLausanne/exemple-diot-et-ml-avec-android-cassandra-et-spark"
 date: 2017-03-23 18:30:00
 ---
 Je vais vous présenter un exemple d'objet connecté et comment analyser ses données. L'objectif est de voir comment collecter les données depuis un capteur du smartphone, stocker ces données dans Cassandra et enfin, analyser ces données pour prédire notre activité avec Spark.
