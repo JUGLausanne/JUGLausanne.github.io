@@ -2,7 +2,7 @@
 layout: post
 title: "Manipulation de Java Bytecode avec Javassist"
 speaker: "Jerome Kehrli"
-slides: ""
+slides: "https://www.slideshare.net/JrmeKehrli/bytecode-manipulation-with-javassist-for-fun-and-profit"
 date: 2017-04-27 18:30:00
 ---
 Le Bytecode Java est le nom donné à la forme binaire des instructions exécutées par la JVM. Normalement, un programmeur Java se soucie assez peu de la façon dont fonctionne le bytecode Java.
