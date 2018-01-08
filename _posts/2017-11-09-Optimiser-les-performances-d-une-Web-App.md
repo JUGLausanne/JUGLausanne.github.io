@@ -2,7 +2,7 @@
 layout: post
 title: "Optimiser les performances d'une Web App"
 speaker: "Guillaume Ehret"
-slides: ""
+slides: "https://www.youtube.com/watch?v=1uh7IFs7_BA"
 date: 2017-11-09 18:30:00
 ---
 Développer une application web (grand public ou privée), avec du JS en front et du Java en backend est de plus en plus rapide avec les solutions mises à disposition aujourd'hui. Mais le jour où vous basculez cette application en production, vous pouvez avoir quelque surprise car le Web a ses particularités qu'on ne retrouve pas quand nous développons sur nos machines ou sur des environnements de test.

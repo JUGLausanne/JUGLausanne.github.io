@@ -2,7 +2,7 @@
 layout: post
 title: "Reverse engineering Java et contournement du mécanisme de paiement inapp Android"
 speaker: "Jérémie Matos"
-slides: ""
+slides: "https://www.youtube.com/watch?v=mSYuM-PrCaw"
 date: 2017-09-28 18:30:00
 ---
 Android fournit une API Java pour la facturation d'achats in-app, permettant aux développeurs de vendre des fonctionnalités supplémentaires directement depuis l'application. Ce mécanisme est très souvent utilisé dans les jeux pour acheter des crédits donnant accès à du contenu supplémentaire, des bonus, etc ... Mais l'intégration du paiement est souvent mal comprise: on ne peut pas faire confiance au code tournant sur le smartphone. Ainsi, toutes les vérifications et l'obtention du contenu doivent s'effectuer côté serveur. Comme ce n'est pas très clair dans la documentation de Google, beaucoup de jeux continuent de faire la gestion côté client.

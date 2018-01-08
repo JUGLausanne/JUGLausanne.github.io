@@ -2,7 +2,7 @@
 layout: post
 title: "Spring Boot et Kotlin, une combinaison gagnante"
 speaker: "Nicolas Frankel"
-slides: ""
+slides: "https://www.youtube.com/watch?v=B16PBktpRBw"
 date: 2017-09-14 18:30:00
 ---
 Bien que relativement récent, le framework Spring Boot connait un succès spectaculaire. On peut maintenant démarrer un projet Spring en quelques minutes au lieu de quelques jours.
