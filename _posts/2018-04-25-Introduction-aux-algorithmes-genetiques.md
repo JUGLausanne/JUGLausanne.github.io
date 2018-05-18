@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction aux algorithmes génétiques"
 speaker: "Wadeck Follonier"
-slides: ""
+slides: "https://youtu.be/9mCyKX8FeAY"
 date: 2018-04-25 18:30:00
 ---
 Nous allons vous proposer de dépoussiérer vos livres de biologie et de revêtir votre plus belle blouse blanche.
