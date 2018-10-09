@@ -2,14 +2,14 @@
 layout: post
 title: "Kotlin, from better Java to Multiplatform"
 speaker: "Gaetan Zoritchak & Pierre Mariac"
-slides: ""
+slides: "https://youtu.be/T-D_rwQubhA"
 date: 2018-05-16 18:30:00
 ---
 
 Jetbrains, dont la devise a depuis longtemps été «Develop with pleasure», nous propose avec kotlin un language qui nous permet de garder le sourire en codant. Depuis la version 1.2 il est possible de déployer un même code sur différentes plateforme: la JVM, android, les environnements JS et bientôt même en natif.
 Quelles sont les particularités, les avantages et les limitations de ces développements multiplateforme? Quels sont les cas d’utilisation ? Comment simplifier les développements par la mise en œuvre de vos propres DSL?
 
-####Speaker
+#### Speaker
 
 Gaetan Zoritchak, ayant assimilé beaucoup de langages informatiques pendant les 20 années d'expériences qu'il a eu dans le domaine de l'informatique, a très rapidement été convaincu par les promesses de Kotlin. Gaetan utilise Kotlin depuis plusieurs années. Il se l'est approprié en 2012 et à commence à le promouvoir dès 2013 en tant qu'orateur.
 

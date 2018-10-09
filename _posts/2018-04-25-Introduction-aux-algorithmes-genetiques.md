@@ -11,7 +11,7 @@ Puis sans ouvrir un débat entre le créationnisme et le darwinisme, nous allons
 Chaque petit rouage de l'algorithme sera ensuite expliqué de manière imagée sans entrer dans trop de détails techniques.
 Enfin nous passerons à la partie la plus palpitante en se prenant pour des apprentis sorciers, grâce à plusieurs démonstrations concrètes de ce qu'il est possible de faire sans avoir un doctorat en génétique.
 
-####Speaker
+#### Speaker
 
 C'est en 2006, lorsqu'il implémente le jeu de la vie de Conway en TopPascal que Wadeck Follonier est pris de passion pour l'algorithmique.
 Cette passion prendra plusieurs formes par la suite, que ce soit en intelligence artificielle appliquée aux jeux vidéo, en un intérêt croissant dans la théorie des jeux ou de manière générale en résolution de problèmes.

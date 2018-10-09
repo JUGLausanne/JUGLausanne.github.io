@@ -10,6 +10,6 @@ En chaque développeur a sommeillé un jour ce rêve d'écrire son propre compil
 Quizz en ligne (20 minutes)
 20 minutes pour jouer ensemble et mettre à l'épreuve nos connaissances des principales failles de sécurité applicatives et notre capacité les détecter des bugs dans du code Java et JavaScript.
 
-####Speaker
+#### Speaker
 
 Freddy est le créateur de la plateforme SonarQube et est co-fondateur de SonarSource. Après de nombreuses années de développement en Java, il joue désormais le role de Product Manager pour les analyseurs de code SonarSource.

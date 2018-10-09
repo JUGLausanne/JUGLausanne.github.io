@@ -2,7 +2,7 @@
 layout: post
 title: "Faciliter le développement d'applications Web rapides avec WebAssembly"
 speaker: "Benjamin Bouvier"
-slides: ""
+slides: "https://youtu.be/YrUj1UeVOkA"
 date: 2018-09-19 18:30:00
 ---
 
@@ -14,6 +14,6 @@ Nous verrons ensuite quel est l'état de l'art de la compilation vers
 WebAssembly pour les langages de la JVM, ainsi que les fonctionnalités
 nécessaires pour pouvoir l'exécuter efficacement.
 
-####Speaker
+#### Speaker
 
 Benjamin Bouvier est ingénieur en compilation chez Mozilla dans l'équipe WebVM. Cette équipe s'occupe de la machine virtuelle Spidermonkey embarquée dans le moteur de rendu de Firefox (Gecko), qui exécute le JavaScript et le WebAssembly des applications web. Avant ça, il a travaillé sur asm.js, un sous-ensemble facilement optimisable de JavaScript aux performances élevées, proches du natif. Il s'est également impliqué dans le développement de SIMD.js, une API expérimentale de calcul parallèle. Désormais il travaille sur la standardisation et l'implémentation de WebAssembly dans Firefox.

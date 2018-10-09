@@ -11,7 +11,7 @@ Nous allons exploiter une véritable application Android du Playstore pour obten
 
 Pour conclure, des recommandations pratiques seront données pour se prémunir de ce genre de problème en utilisant Angry Birds comme exemple.
 
-####Speaker
+#### Speaker
 
 Jeremy Matos (@SecuringApps) a travaillé dans le domaine de la sécurité logicielle depuis plus de 10 ans en Suisse Romande. Avec une formation académique de développeur, il a conçu et participé à l'implémentation d'une solution innovante d'authentification forte mobile.
 
