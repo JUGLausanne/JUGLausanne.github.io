@@ -2,7 +2,7 @@
 layout: post
 title: "Designing DSL avec Kotlin"
 speaker: "Nicolas Frankel"
-slides: ""
+slides: "https://youtu.be/XNTpaLuvqvM"
 date: 2018-10-10 18:30:00
 ---
 
