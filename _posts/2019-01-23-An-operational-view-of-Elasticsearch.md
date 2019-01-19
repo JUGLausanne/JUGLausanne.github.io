@@ -3,7 +3,7 @@ layout: post
 title: "An operational view of Elasticsearch"
 speaker: "Guillaume Lederrey"
 slides: ""
-date: 2019-01-2318:30:00
+date: 2019-01-23 18:30:00
 ---
 
 How to scale Elasticsearch to the size of Wikipedias
