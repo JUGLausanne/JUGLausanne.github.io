@@ -2,7 +2,7 @@
 layout: post
 title: "Applications Web efficaces avec Spring Boot 2"
 speaker: "Stéphane Nicoll"
-slides: ""
+slides: "https://www.youtube.com/watch?v=t3-zt3kgP9M"
 date: 2019-03-27 18:30:00
 ---
 

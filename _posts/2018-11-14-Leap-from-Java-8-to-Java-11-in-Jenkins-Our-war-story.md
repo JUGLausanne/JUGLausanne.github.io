@@ -2,7 +2,7 @@
 layout: post
 title: "Leap from Java 8 to Java 11 in Jenkins. Our war story"
 speaker: "Oleg Nenashev"
-slides: ""
+slides: "https://www.youtube.com/watch?v=18wVyYaZvTw"
 date: 2018-11-14 18:30:00
 ---
 
