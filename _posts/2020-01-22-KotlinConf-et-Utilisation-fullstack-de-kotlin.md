@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PRetours de la KotlinConf 2019 et utilisation FullStack de Kotlin"
+title: "Retours de la KotlinConf 2019 et utilisation FullStack de Kotlin"
 speaker: "Gaetan Zoritchak"
 slides: ""
 date: 2020-01-22 18:30:00
